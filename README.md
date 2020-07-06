@@ -55,7 +55,7 @@ _ConvertDataForMiditime.py_ consumes your data file(s) and builds the appropriat
 ## Usage
 
 1. Copy your raw data files to the _sources_ folder.
-2. Make your settings in and then run the following file:
+2. Make your settings in Config0001.py (see Directory Structure above) and then run the following file:
 
 ```
 $ python ConvertDataForMiditime.py
