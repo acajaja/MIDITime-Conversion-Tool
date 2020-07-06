@@ -2,8 +2,7 @@ import os
 import sys
 
 from random import randint
-from miditime.miditime import MIDITime
-
+from miditime.miditime import *
 
 class CreateMidiFromData(object):
     # Constants

@@ -1,15 +1,4 @@
-----
-## The Data-to-MIDI Conversion Repository
-
-This houses all files related to data-to-MIDI conversion.
-
-----
-## Requirements
-
-Python >= 2.7.10 < 3
-
-----
-## Data-to-MIDI Converter
+# Data-to-MIDI Converter
 
 This project is the result of a need to convert time series data to MIDI for use in MoogFest 2017.
 
@@ -20,6 +9,12 @@ Please see the following repositories for details regarding that specific code:
 [MIDITime](https://github.com/cirlabs/miditime)
 
 ----
+## Requirements
+
+Python >= 2.7.10 < 3
+
+----
+
 ## Overview
 
 ### Directory Structure

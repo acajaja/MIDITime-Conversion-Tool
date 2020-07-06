@@ -1,6 +1,12 @@
+import os
+import sys
+
+parent_dirA = os.path.abspath(os.path.dirname(__file__))
+
+sys.path.append(os.path.abspath(os.path.join(parent_dirA, '../vendor')))
+
 import argparse
 import fnmatch
-import os
 import pytz
 import csv
 import re
