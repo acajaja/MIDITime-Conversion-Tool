@@ -1,5 +1,7 @@
 # Data-to-MIDI Converter
 
+## Note: I am currently in the middle of some changes to this code base.
+
 This project is the result of a need to convert time series data to MIDI for use in MoogFest 2017.
 
 This repository holds the scripts that wrap the existing Python MIDI utilities in the midiutil library.
